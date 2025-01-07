@@ -1,0 +1,13 @@
+torch==2.1.0+cu121
+--find-links https://download.pytorch.org/whl/cu121
+
+openai-whisper>=20231117
+gradio>=4.0.0
+transformers>=4.30.0
+yt-dlp>=2023.11.16
+ffmpeg-python>=0.2.0
+numpy<2.0.0
+
+
+# You must download and install ffmpeg-master-latest-win64-gpl separately (https://github.com/BtbN/FFmpeg-Builds/releases)
+# Install torch version compatible with your CUDA version

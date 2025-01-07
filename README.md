@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Whisper Subtitle Generator
 
 A subtitle generation tool utilizing OpenAI's Whisper for speech-to-text conversion. This application can automatically generate English and Korean subtitles from video/audio files or YouTube links.
@@ -95,6 +94,4 @@ This project is distributed under the MIT License.
 ## Contributing
 
 Contributions are welcome! Please feel free to submit a Pull Request.
-=======
-# whisper_e2k
->>>>>>> 197208a70d602bf1b820d45d6095368a313ffc3a
+

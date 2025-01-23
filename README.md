@@ -110,7 +110,6 @@ python whisper_e2k.py
 
 1. CUDA Error Resolution
    - Ensure PyTorch version matches CUDA version
-   - Modify torch version in requirements.txt if needed
 
 2. FFmpeg Issues
    - Verify FFmpeg is in system PATH
